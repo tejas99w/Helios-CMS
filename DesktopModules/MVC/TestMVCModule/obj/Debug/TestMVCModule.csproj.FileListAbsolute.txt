@@ -1,0 +1,9 @@
+C:\websites\dnndev.me\bin\TestMVCModule.dll.config
+C:\websites\dnndev.me\bin\TestMVCModule.dll
+C:\websites\dnndev.me\bin\TestMVCModule.pdb
+C:\websites\dnndev.me\DesktopModules\MVC\TestMVCModule\obj\Debug\TestMVCModule.csprojResolveAssemblyReference.cache
+C:\websites\dnndev.me\DesktopModules\MVC\TestMVCModule\obj\Debug\Helios.Modules.TestMVCModule.App_LocalResources.Settings.resources
+C:\websites\dnndev.me\DesktopModules\MVC\TestMVCModule\obj\Debug\TestMVCModule.csproj.GenerateResource.Cache
+C:\websites\dnndev.me\DesktopModules\MVC\TestMVCModule\obj\Debug\TestMVCModule.csproj.CoreCompileInputs.cache
+C:\websites\dnndev.me\DesktopModules\MVC\TestMVCModule\obj\Debug\TestMVCModule.dll
+C:\websites\dnndev.me\DesktopModules\MVC\TestMVCModule\obj\Debug\TestMVCModule.pdb
